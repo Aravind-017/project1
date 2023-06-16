@@ -37,3 +37,7 @@ print('Studied at $college');
 print('Currently doing $course');
 
 }
+
+/// to run this program in vscode
+/// cd bin
+/// dart run filenamr.dart
