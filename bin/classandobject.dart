@@ -51,10 +51,7 @@ void main(){
   print("Phone = ${st2.phone = 9856237412}");
   print("course= ${Students.course}");
 
-  print(" " );
-  print(" " );
-  print(" " );
-  print(" " );
+  print("-------------------------------------------------");
 
   Students st3 = Students();
   print("Student 3 details");
