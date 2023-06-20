@@ -22,7 +22,7 @@ class ClassName{
   ///                   -> eg: ClassName.staticVariable Name
   /// Object creation   -> Syntax :  ClassName objectName = ClassName()
   ///                      (constructor : a function with name same as class name)
-  ///                      used to create an object
+  /*                    used to create an object*/
 
 class Students {
   String? name;
@@ -51,7 +51,10 @@ void main(){
   print("Phone = ${st2.phone = 9856237412}");
   print("course= ${Students.course}");
 
-  print("--------------------------------------------------");
+  print(" " );
+  print(" " );
+  print(" " );
+  print(" " );
 
   Students st3 = Students();
   print("Student 3 details");
