@@ -16,7 +16,7 @@ void func2(String name,{int? age, int? phone,String? email}){
   print('phone=$phone');
   print('email=$email');
 }
-///2.a .ptional named parameter with required arguments
+///2.a .optional named parameter with required arguments
 void func3(String name,{int? age,required int phone,required String email}){
   print('name = $name');
   print('age  =$age');
